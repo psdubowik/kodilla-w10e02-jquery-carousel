@@ -1,0 +1,23 @@
+{
+    "name": "kodillaFE_week10ex02_js_carousel",
+    "version": "1.0.0",
+    "description": "jQuery carousel",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/psdubowik/kodilla-w10e02-jquery-carousel.git"
+    },
+    "keywords": [
+      "jquery"
+    ],
+    "author": "PSD",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/psdubowik/kodilla-w10e02-jquery-carousel/issues"
+    },
+    "homepage": "https://github.com/psdubowik/kodilla-w10e02-jquery-carousel#readme"
+  }
+  
